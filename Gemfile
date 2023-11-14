@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "activesupport", '7.0.0.alpha1'
+gem "activesupport", "7.0.4.3"
 
